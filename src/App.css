@@ -1,0 +1,21 @@
+.home-div{
+    width: 60%;
+    height: 60vh;
+    margin: 50px auto;
+    
+  
+}
+.contact-div{
+    width: 60%;
+    height: 60vh;
+    margin: 50px auto;
+    
+  
+}
+.stylebox {
+    width: 300px;
+    box-shadow: 0 0 10px black;
+    padding: 30px;
+    margin: 150px auto;
+    text-align: center;
+  }
